@@ -1,0 +1,8 @@
+[
+  {
+    "Source": "com.myapp.events",
+    "DetailType": "specific-event-type",
+    "Detail": "{\"msg\":\"hello\"}",
+    "EventBusName": "arn:aws:events:eu-west-1:111111111111:event-bus/eventbridge-mesh-producer-event-bus"
+  }
+]

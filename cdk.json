@@ -2,9 +2,10 @@
     "app": "python3 app.py",
     "context": {
         "appName": "eventbridge-mesh",
-        "region": "us-east-1",
+        "region": "eu-west-1",
         "producerAccountId": "111111111111",
-        "consumer1AccountId": "222222222222"
+        "consumer1AccountId": "222222222222 ",
+        "orgId": "o-xxxxxxxxx"
     }
     
 }
